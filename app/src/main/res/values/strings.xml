@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppinessDemoApp</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search</string>
+</resources>
